@@ -13,69 +13,83 @@ public class User {
 
     /**
     * Установить id пользователя
-    * @param userId id пользователя
+    * @param id id пользователя
     */
-    public void setUserId(Long userId) { this.id = userId; }
+    public void setId(Long id) {
+        this.id = id;
+    }
 
     /**
     * Получить id пользователя
     * @return id пользователя
     */
-    public Long getUserId(){ return id; }
+    public Long getId() {
+        return id;
+    }
 
     /**
      * Установить login пользователя
-     * @param userLogin login пользователя
+     * @param login login пользователя
      */
-    public void setUserLogin(String userLogin){ this.login = userLogin; }
+    public void setLogin(String login) {
+        this.login = login;
+    }
 
     /**
      * Получить login пользователя
      * @return login пользователя
      */
-    public String getUserLogin(){ return login; }
+    public String getLogin() {
+        return login;
+    }
 
     /**
      * Установить surname пользователя
-     * @param userSurname Surname пользователя
+     * @param surname Surname пользователя
      */
-    public void setUserSurname(String userSurname){
-        this.surname = userSurname;
+    public void setSurname(String surname) {
+        this.surname = surname;
     }
 
     /**
      * Получить surname пользователя
      * @return surname пользователя
      */
-    public String getUserSurname(){ return surname; }
+    public String getSurname() {
+        return surname;
+    }
 
     /**
      * Установить firstName пользователя
-     * @param userFirstName firstName пользователя
+     * @param firstName firstName пользователя
      */
-    public void setUserFirstName(String userFirstName){
-        this.firstName = userFirstName;
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
     }
 
     /**
      * Получить firstName пользователя
      * @return firstName пользователя
      */
-    public String getUserFirstName(){ return firstName; }
+    public String getFirstName() {
+        return firstName;
+    }
 
     /**
      * Установить userPassword пользователя
-     * @param userPassword password пользователя
+     * @param password password пользователя
      */
-    public void setUserPassword(String userPassword){
-        this.password = userPassword;
+    public void setPassword(String password) {
+        this.password = password;
     }
 
     /**
      * Получить password пользователя
      * @return password пользователя
      */
-    public String getUserPassword(){ return password; }
+    public String getPassword() {
+        return password;
+    }
 
 
 }
