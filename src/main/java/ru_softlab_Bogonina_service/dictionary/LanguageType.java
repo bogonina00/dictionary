@@ -1,4 +1,4 @@
-package dictionary;
+package ru_softlab_Bogonina_service.dictionary;
 
 /**
 * Язык

@@ -1,1 +1,1 @@
-# dictionary
+# ru_softlab_Bogonina_service.dictionary

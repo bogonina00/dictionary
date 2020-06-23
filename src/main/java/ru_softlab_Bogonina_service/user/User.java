@@ -1,4 +1,4 @@
-package user;
+package ru_softlab_Bogonina_service.user;
 
 /**
  * Пользователь

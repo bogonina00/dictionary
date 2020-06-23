@@ -1,6 +1,6 @@
-package dictionary;
+package ru_softlab_Bogonina_service.dictionary;
 
-import user.User;
+import ru_softlab_Bogonina_service.user.User;
 
 import java.util.List;
 
