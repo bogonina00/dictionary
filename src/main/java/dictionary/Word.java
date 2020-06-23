@@ -1,4 +1,4 @@
-package word;
+package dictionary;
 
 /**
 * Слово
@@ -11,42 +11,50 @@ public class Word {
 
     /**
     * Установить id слова
-    * @param wordId id слова
+    * @param id id слова
     */
-    public void setWordId(Long wordId){ this.id=wordId; }
+    public void setId(Long id){
+        this.id=id;
+    }
 
     /**
     * Получить id слова
     * @return id слова
     */
-    public Long getWordId(){ return id; }
+    public Long getId(){
+        return id;
+    }
 
     /**
     * Установить перевод слова
-    * @param wordTranslation перевод слова
+    * @param translation перевод слова
     */
-    public void setWordTranslation(String wordTranslation){
-        this.translation = wordTranslation;
+    public void setTranslation(String translation){
+        this.translation = translation;
     }
 
     /**
     * Получить перевод слова
     * @return перевод слова
      */
-    public String getWordTranslation(){ return translation; }
+    public String getTranslation(){
+        return translation;
+    }
 
     /**
     * Установить транскрипцию слова
-    * @param wordTranscription транскрипция слова
+    * @param transcription транскрипция слова
      */
-    public void setWordTranscription(String wordTranscription){
-        this.transcription = wordTranscription;
+    public void setTranscription(String transcription){
+        this.transcription = transcription;
     }
 
     /**
      * Получить транскрипцию слова
      * @return транскрипция слова
      */
-    public String getWordTranscriptions(){ return transcription; }
+    public String getTranscriptions(){
+        return transcription;
+    }
 
 }

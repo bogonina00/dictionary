@@ -1,7 +1,8 @@
 package dictionary;
 
-import languageType.LanguageType;
 import user.User;
+
+import java.util.List;
 
 /**
 * Словарь
@@ -11,43 +12,70 @@ public class Dictionary {
     private Long id;
     private User user;
     private LanguageType languageType;
+    private List<Word> words;
+
+    /**
+     * Получить список слов
+     * @return words писок
+     */
+    public List<Word> getWords() {
+        return words;
+    }
+
+    /**
+     * Установить список слов
+     * @param words список слов
+     */
+    public void setWords(List<Word> words) {
+        this.words = words;
+    }
 
     /**
     * Установить id словаря
-    * @param dictionaryId id словаря
+    * @param id id словаря
     */
-    public void setDictionaryId(Long dictionaryId) { this.id = dictionaryId; }
+    public void setId(Long id) {
+        this.id = id;
+    }
 
     /**
     * Получить id словаря
     * @return id словаря
     */
-    public Long getDictionaryId(){ return id; }
+    public Long getId(){
+        return id;
+    }
 
     /**
     * Установить пользователя словарём
-    * @param dictionaryUser пользователь словаря
+    * @param user пользователь словаря
     */
-    public void setDictionaryUser(User dictionaryUser){ this.user = dictionaryUser; }
+    public void setUser(User user){
+        this.user = user;
+    }
 
     /**
      * Получить пользователя словарём
      * @return пользователь словарём
      */
-    public User getDictionaryUser(){ return user; }
+    public User getUser(){
+        return user;
+    }
 
     /**
      * Установить язык словаря
-     * @param dictionaryLanguageType язык словаря
+     * @param languageType язык словаря
      */
-    public void setDictionaryLanguageType(LanguageType dictionaryLanguageType){
-        this.languageType = dictionaryLanguageType;
+    public void setLanguageType(LanguageType languageType){
+        this.languageType = languageType;
     }
 
     /**
     * Получить язык словаря
     * @return язык словаря
     */
-    public LanguageType getLanguageType(){ return languageType; }
+    public LanguageType getLanguageType(){
+        return languageType;
+    }
 
 }

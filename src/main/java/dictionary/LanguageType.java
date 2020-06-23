@@ -1,4 +1,4 @@
-package languageType;
+package dictionary;
 
 /**
 * Язык

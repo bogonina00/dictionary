@@ -32,6 +32,10 @@
   <component name="ChangeListManager">
     <list default="true" id="703e2fa8-08fa-42de-89a8-a2646648a404" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dictionary/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dictionary/Dictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/languageType/LanguageType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dictionary/LanguageType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dictionary/Word.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +79,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="dictionary" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -92,6 +101,7 @@
       <workItem from="1592807968554" duration="1561000" />
       <workItem from="1592810206259" duration="3501000" />
       <workItem from="1592817026247" duration="15194000" />
+      <workItem from="1592898329041" duration="4576000" />
     </task>
     <servers />
   </component>
@@ -111,13 +121,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="343" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592822587704">
+    <state x="478" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1592900673450">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="343" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1592822587704" />
+    <state x="478" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1592900673450" />
+    <state x="343" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592899974551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="343" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1592899974551" />
+    <state x="485" y="266" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592902183832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="485" y="266" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1592902183832" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1592811874008">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592811874008" />
+    <state x="488" y="165" key="chooseDestDirectoryDialog" timestamp="1592902027580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="165" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1592902027579" />
   </component>
 </project>
