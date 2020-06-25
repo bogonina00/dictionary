@@ -31,17 +31,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="703e2fa8-08fa-42de-89a8-a2646648a404" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dictionary/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dictionary/Dictionary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dictionary/LanguageType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dictionary/LanguageType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dictionary/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dictionary/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/softlab/bogonina/dictionary/LanguageType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/softlab/bogonina/dictionary/LanguageType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/softlab/bogonina/dictionary/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/softlab/bogonina/dictionary/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/softlab/bogonina/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/softlab/bogonina/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dictionary/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dictionary/LanguageType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dictionary/Word.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
