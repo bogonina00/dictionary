@@ -30,11 +30,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="703e2fa8-08fa-42de-89a8-a2646648a404" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/dictionary/Dictionary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dictionary/LanguageType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dictionary/Word.java" beforeDir="false" />
-    </list>
+    <list default="true" id="703e2fa8-08fa-42de-89a8-a2646648a404" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,5 +135,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="165" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1592914587249" />
+    <state x="100" y="140" width="1146" height="488" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593081602845">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="140" width="1146" height="488" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1593081602845" />
+    <state x="184" y="217" width="1146" height="488" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1593081602846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="217" width="1146" height="488" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1593081602846" />
   </component>
 </project>
