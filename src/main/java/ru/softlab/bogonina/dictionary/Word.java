@@ -1,4 +1,4 @@
-package ru_softlab_Bogonina_service.dictionary;
+package ru.softlab.bogonina.dictionary;
 
 /**
 * Слово

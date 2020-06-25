@@ -1,4 +1,4 @@
-package ru_softlab_Bogonina_service.user;
+package ru.softlab.bogonina.user;
 
 /**
  * Пользователь
@@ -90,6 +90,5 @@ public class User {
     public String getPassword() {
         return password;
     }
-
 
 }
