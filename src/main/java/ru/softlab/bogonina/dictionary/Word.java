@@ -1,5 +1,6 @@
 package ru.softlab.bogonina.dictionary;
 
+
 /**
 * Слово
 */
@@ -13,15 +14,15 @@ public class Word {
     * Установить id слова
     * @param id id слова
     */
-    public void setId(Long id) {
-        this.id = id;
+    public void setId(Long id){
+        this.id=id;
     }
 
     /**
     * Получить id слова
     * @return id слова
     */
-    public Long getId() {
+    public Long getId(){
         return id;
     }
 
@@ -29,7 +30,7 @@ public class Word {
     * Установить перевод слова
     * @param translation перевод слова
     */
-    public void setTranslation(String translation) {
+    public void setTranslation(String translation){
         this.translation = translation;
     }
 
@@ -37,7 +38,7 @@ public class Word {
     * Получить перевод слова
     * @return перевод слова
      */
-    public String getTranslation() {
+    public String getTranslation(){
         return translation;
     }
 
@@ -45,7 +46,7 @@ public class Word {
     * Установить транскрипцию слова
     * @param transcription транскрипция слова
      */
-    public void setTranscription(String transcription) {
+    public void setTranscription(String transcription){
         this.transcription = transcription;
     }
 
@@ -53,7 +54,7 @@ public class Word {
      * Получить транскрипцию слова
      * @return транскрипция слова
      */
-    public String getTranscription() {
+    public String getTranscriptions(){
         return transcription;
     }
 

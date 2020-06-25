@@ -87,8 +87,7 @@ public class User {
      * Получить password пользователя
      * @return password пользователя
      */
-    public String getPassword() {
+    public String getPassword(){
         return password;
     }
-
 }
